@@ -1,0 +1,255 @@
+Date	Pizza	Meeting	ACIC
+05/27/26	Sals Pizza Eastside	Big Book Wednesday	Charles B
+04/29/26	Wy'east Pizza	023 Wed	Troy M
+03/25/26	Lisa's Pizzeria	Group 140 Shorewood	Andrew B
+02/25/26	Paisano's	Airport Group	Tom L
+01/28/26	Filippo's Italian Restaurant	We Us and Ours Group	Ed S
+12/17/25	Maggio's Wood Fired Pizza	Wed Night Dewey Big Book	Stafford K
+11/26/25	Travinos	Helping Hand Group	John K
+10/29/25	Mia's	Primary Purpose Group	Fred B
+09/24/25	Cataro's Italian Villa	Group 60	Fred B
+08/27/25	Nico's Pizza	Promises Group	Jerry D
+07/30/25	Filippos Italian Restaurant	Helping Hands Group	Tom W
+06/25/25	Trattoria di Carlo & Pizzeria	Big Book & More	Scot H
+05/28/25	Transfer Pizza Cafe	Home Again Meeting	Matt Z
+04/30/25	Fixture Pizza Pub	Wed Night Men's Meeting	Troy M
+03/26/25	Classic Slice	Fabulous Group 44	Bill H
+02/26/25	Lisa's Pizza	MG Big Book	Andrew B
+01/29/25	Maria's Pizza	Group 060	Jim B
+12/18/24	Nico’s Pizza	Promises Group	Chad W
+11/27/24	Pizza Shuttle	Wed Night Men's Meeting	Chad W
+10/24/24	Papa Luigi's	Home Again Meeting	Steve W
+09/25/24	Capri di Nuovo	We Us and Our Group	Stafford K
+08/28/24	Carini's Southern Italian	Group 140	Josh M
+07/31/24	Riverwest Pizza	MG Big Book	Rick S
+06/26/24	Sorella	Big Book & More	Chad W
+05/29/24	Anodyne	Home Again Meeting	Troy M
+04/24/24	Barbiere's Italian Restaurant	Helping Hand Group	Carl H
+03/27/24	De Marinis	Home Again Meeting	Dick K
+02/28/24	Lisa's Pizzeria	Wed Night Men's Meeting	Forrest M
+01/31/24	Flour Girl & Flame	How to Club	Eddie D
+12/27/23	Maggio's Wood Fired Pizza	Wed Night Dewey Big Book	John T
+11/29/23	Organ Piper Pizza	Group 060	Rich D
+10/25/23	Ricardo's Pizza	Home Again Meeting	David D
+09/27/23	Pizza Man	Wednesday Night Recovery	Jake H
+08/30/23	Ann's Italian Restaurant	We Us and Ours Group	Josh S
+07/26/23	Fillippos Italian Restaurant	Group 23	Joe R
+06/26/23	Armelli's Restaurant & Pizzeria	Victory Group	Robb B
+05/30/23	Marty's Pizza	Hand of AA Group	Eric O
+04/24/23	The Valley Inn	AA Laughs and Leisure	Troy M
+03/27/23	Mama Mia's	Introductory Group	Bill H
+02/27/23	Zaffiro's Pizza	Monday Night How it Works	Tom W
+01/30/23	Ricardo's Pizza	Reality Group	Jack S
+12/26/22	Barbiere's Italian Inn of South Milwaukee	Monday to Monday Men's	Fred B
+11/28/22	Riverwest Pizza	MG 1st Step	Josh M
+10/31/22	Balistreri's Bluemound Inn	Group 63	Bill E
+09/26/22	Kane's house	Kane's house	Stafford K
+08/29/22	Chuck's Place	Mon Night Mequon Men's Grup	John W
+07/25/22	Mama Mia's	Group 63	Pete H
+06/27/22	Classic Slice	Way of Life Group	Bharat R
+05/30/22	Riverwest Pizza	MG 1st step	Rick S
+04/25/22	Barbiere's Italian Inn	Real Needs Real Help	Chad W
+03/28/22	BB's on North	Group 232	Troy M
+02/28/22	Lisa's Pizzeria	Monday Night How it Works	Rick S
+01/31/22	zoom	zoom	Rick S
+12/27/21	Paisano's Italian Restaurant	Mon to Mon Men's	Rob S
+11/28/21	Balistrierie's	Laughs and Leisure	James D
+10/25/21	Ricardo's	Reality Group	Pete H
+09/27/21	Zafirro's Pizzeria	Monday Night Men's Group	Andrew B
+08/30/21	De Marinis Pizzeria	Monday Night Action	Robb B
+07/26/21	Michaelangelo's Pizza	Victory Group	Tom L
+06/28/21	Sal's Pizza East Side	MG	Stafford K
+05/31/21	zoom	zoom	Kyle B
+04/26/21	zoom	zoom	Tom L
+03/29/21	zoom	zoom	Niels L
+02/22/21	zoom	zoom	Troy M
+01/25/21	zoom	zoom	Patrick C
+12/28/20	zoom	zoom	Mike N
+11/30/20	zoom	zoom	Brad D
+10/26/20	zoom	zoom	Forrest M
+09/28/20	zoom	zoom	Tom P
+08/31/20	zoom	zoom	Troy M
+07/27/20	zoom	zoom	Bill H
+06/29/20	zoom	zoom	Christoher T
+05/26/20	zoom	zoom	Christopher T
+04/27/20	zoom	zoom	Jason A
+03/30/20	zoom	zoom	Tom P
+02/24/20	Pizzeria Piccola	Real Needs Real Help Group	Jason A
+01/27/20	Armelli's Restaurant & Pizzeria	Victory Group	Joe R
+12/30/19	Ian's Pizza	First Things First	Forrest M
+11/25/19	Riverwest Pizza	Milwaukee Group 1st Step	Andrew B
+10/28/19	Mama Mia's	Just Do It	Jerry D
+09/30/19	Matteo's Italian Restaurant	Monday 12x12	Bill S
+08/26/19	Pizza Shuttle	Monday Night How It Works	Bill S
+07/29/19	Toscana Italian Restaurant	Monday to Monday Men's Group	Jim Mc
+06/24/19	Michelangelo's	Reality Group	Pete H
+05/28/19	Pizza Man	Tue. Night San Camillo Step Meeting	Christopher T
+04/29/19	Classic Slice Pizza	New Back To Basics Group	Bill H
+03/25/19	Baliestreri's Bluemound Inn	Group #63	Frank A
+02/25/19	Trattoria di Carlo & Pizzeria	Oak Creek Monday 12 & 12	Luke S
+01/28/19	Anodyne Bayview Pizza & Cafe	Way of Life Group	Troy M
+12/17/18	Lisa's Pizzeria	MG Topic	Rick S
+11/26/18	Barbiere's Italian Inn	Mon to Mon Men's	Bill E
+10/29/18	Sal's Pizza Eastside	Monday Night How it Works	Stafford K
+09/24/18	Avalanche Grill	Victory Group	Ed S
+08/27/18	Pepino's Pizza & Ristorante	Just Do It Group	Tom L
+07/30/18	Casa Di Giorgio	Oak Creek Monday 12&12	Mike M
+06/25/18	Balistreri's Bluemound Inn	Group #63	Mike B
+05/29/18	Saraphino's	Group #109	Pete H
+04/30/18	Ian's Pizza	Milwaukee Group - Topic Meeting	Rick S
+03/26/18	Vino Cappuccino	Brookfield Unity	Jason A
+02/26/18	San Giorgio	We Agnostics	Troy M
+01/29/18	Andrea's Pizza	Introductory Group	Mall L
+12/18/17	Scotty's Bar & Pizza	Way of Life Group	Fred B
+11/27/17	Jimmy's Grotto	Twelve & Twelve	Eddie L
+10/30/17	Lisa's Pizza	MG Beginner's Meeting	Curtis D
+09/25/17	Classic Slice	New Back to Basics Group	Joe R
+08/28/17	The Butler Inn	Kevin's House	Charles B
+07/31/17	River West Pizza	MG Topic Meeting	Troy M
+06/26/17	Toscana Italian Restorante	Oak Creek Monday 12&2	Kyle B
+05/30/17	Transfer Pizzeria Cafe	Wander's Group	Matt Z
+04/24/17	Mulligan's	Reality Group	George R
+03/27/17	Trattoria di Carlo & Pizzeria	Oak Creek Monday 12 & 12	George H
+02/27/17	Pizza Man - Wauwatosa	Group 232	Rick S
+01/30/17	Pizza Man - Oak Creek	Topic/Discussion Group	Carl H
+12/26/16	Barbiere's Italian Inn	Came To Believe	Bill H
+11/28/16	Paisanos	Sylvan Crossings	John W
+10/31/16	Ann's Italian Restaurant	Reality Group	Mike M
+09/26/16	Michael's Itialian Restaurant	Daily Reprieve Men's Meeting	Steve M
+08/29/16	Leonardo's Pizza	Monday Night Men's Meeting	Niels L
+07/25/16	Filippo's Italian Restaurant	Real Needs Real Help Group	Bill H
+06/27/16	Ned's Pizza	Group No 201 Big Book	Carl
+05/30/16	Marty's Pizza	Brookfield Unity Group	Joel
+04/25/16	Divino Wine & Dine	Group #20	Glenn C
+03/28/16	Avalance Grill	Victory Group	Charles B
+02/29/16	Pepinos Pizza	Monday Night Action	Ed
+01/25/16	Trattoria di Carlo & Pizzeria	Oak Creek Monday 12 & 12	Matt A
+12/28/15	Lisa's Pizza	MG Monday Night Topic	Vince G
+11/30/15	Balistreri's Italian American Ristorante	Charlie Stone Group	Colby C
+10/26/15	Papa Luigi's	Mon to Mon Men's	Javier F
+09/28/15	Leonardo's Pizza	Group 86	Niels L
+08/31/15	Michaelangelo's Pizza	Reality Group	Tom L
+07/27/15	Casa Di Giorgio	Oake Creek Monday 12 & 12	Walter M
+06/29/15	Transfer Pizza	Way of Life Group	Colby C
+05/25/15	Barbiere's Bluemound Inn	Group 29	Vince G
+04/27/15	Classic Slice	Way of Life Group	Bill H
+03/30/15	Zaffiros	Sane & Sober Group	Jim B
+02/23/15	Paisano's Italian Restaurant	Mon to Mon Men's	Fred B
+01/26/15	Cataro's Itailian Villa	Monday Night Freedom Group	Curtis D
+12/29/14	Balistreri's Bluemound Inn	Group #63	Chris A
+11/24/14	Fillipo's Italian Restaurant	Real Needs Real Help Group	Joe R
+10/29/14	DiCarlo's	Monday Men's Group	Carl H
+09/29/14	Ann's Italian Restaurant	Reality Group	Troy M
+08/25/14	Lisa's Pizzeria	Alano club - Group #20	Daniel
+07/28/14	Ryan M's House	Group #63	Ryan M
+06/30/14	Calderone Club	Sane & Sober Group #008	Charles B
+05/27/14	Pizza Man - East Side	MG Big Book	Rick S
+04/28/14	Via Downer	Came to Believe	Bill E
+03/31/14	Mama's Italian Cuisine	Group 029	Bill H
+02/24/14	Pepino's Pizza & Ristorante	Monday Night Action Group	Steve M
+01/27/14	Barbiere's	Monday Men's Group	Tom L
+12/30/13	Balistreri's Italian/American Ristorante	Group - # 63	Todd U
+11/26/13	Time Square Bistro & Pizzeria	Men's Sponsorship Workshop	Bill E
+10/29/13	Lisa's	MG Big Book Tues Discussion	Rich H
+09/24/13	Dom & Phil De Marinis Pizza	Group 109	Jason C
+08/27/13	Solo Pizza	Alano Beginners Mtg	Byron T
+07/30/13	Ryan M's house	United We Stand	Craig S
+06/25/13	Transfer	Wander's Group	Rick S/Bill H
+05/28/13	Classic Slice	irst 164 Big Book Group	Chris A
+04/30/13	SoLo Pizza	Shorewood Group	Chris A/Troy M
+03/26/13	Lisa's Pizzeria	Milwaukee Group	Troy M
+02/26/13	Michaelangelo's	Tuesday Night Candlelight	Tom L
+01/29/13	Tanino's Italian Restaurant	Three Legacies Group	Bill H
+12/18/12	Lisa's Pizzeria Restaurant	MG Big Book Open Discussion	Rick S
+11/27/12	Klasiana	Tuesday Night Candlelight	Joe R
+10/30/12	Fratelli's	Twelve and Twelve, HOW To Club	Craig S
+09/25/12	Time Square Bistro & Pizzeria	First 164 Big Book Group	Troy M
+08/28/12	Kevin's house, Pizza by Mamas	8pm @ Tuesday Night Topic Group	Kevin S
+07/31/12	Ryan's House	United We Stand	Ryan M
+06/26/12	Solo Pizza	Alano Club - 7:00pm	Lenny H
+05/29/12	Ned's Pizza	Gratitude Group	Kurt B
+04/24/12	Mama Mia's	TNT (Topic N Traditions)	Brad D
+03/27/12	The Butler Inn	Tue Night Topic	Brian M
+02/28/12	Maria's Pizza	Pass It On Club	Scot H
+01/31/12	Classic Slice	Father Mac's Family Open Steps	Chris F
+12/27/11	diCarlo's	133 Whats Happening	Jim B
+11/29/11	Palermo Villa Italian Restaurant	Shorewood Tuesday Night	Kurt B
+10/25/11	Lisas	MG	Rick S
+09/27/11	Transfer	Wander's Group	Leon
+08/30/11	Marcel's	Big Book Group @ Alano Club	Marcel
+07/26/11	Balistreri's Bluemound Inn	Recovery Group	Shannon McD
+06/28/11	Mia Famiglia Italian Ristorante	Hales Corners Tue. Night	Bill H
+05/31/11	Mama De Marinis	St. Veronicas Church Hall	Jason C
+04/26/11	Zaffiros	7pm Beginners - Alano	Byron T
+03/29/11	Lisa's	MG 7pm	Ryan M
+02/22/11	Sals pizza	Alpha Group	Craig S
+01/25/11	Papa Luigi's	Milwaukee Group	Marcel/Rick
+12/28/10	Zaffiros Pizza	Shorewood Tuesday Night	Eric G
+11/30/10	Anne's Italian Restaurant	New Berlin Big Book Group	James N
+10/26/10	Michaels	Mayflower Group	Greg H
+09/28/10	The Caradaro Club	How to Club	Matt D
+08/24/10	Ned's Pizza	Father Mac's Family Open Steps	Matt D and Bill H
+07/27/10	Via	The Non Smokers Tue Night	Clay K
+06/29/10	Calderone Club	Alano Club 4 Meeting	Peter W
+05/25/10	Meglios Pizzeria	Milwaukee Group	Troy M
+04/27/10	Maria's Pizzeria	Three Legacies	Bill H
+03/30/10	Transfer Pizzeria Cafe	Wanderer's Group	Rick S
+02/23/10	Dom and Phil DeMarini's	whats happening	Jim M
+01/26/10	Ann's Italian Restaurant	Tuesday Night Candlelight Group	Richard W
+12/29/09	Tanino's Italian & American Restaurant	12 & 12 Group	Curtis D
+11/24/09	Palermo Villa Italian Restaurant	Milwaukee Group	Peter B
+10/27/09	Sals Pizza	Advent Lutheran Church	Alex
+09/29/09	Pizzeria Piccola	men's meeting @ Dewey Center	Thomas H
+08/25/09	Jimmy's Grotto	How It Works Group	Jason G
+07/28/09	Pizza Man	Group No. 14	Christiano H
+06/30/09	Balistreri's Italian-American	United We Stand Group	Jeff L
+05/26/09	Angelos Pizza	Group 73 - Salvation Army	Jim B
+04/28/09	Capri Pizza	Impaired Professionals	Matt Z
+03/31/09	Tomaso's	Advent Lutheran	Jason L
+02/25/09	Lisa's Pizza	Roundy's	Vince G
+01/27/09	Ferrante's Restaurant	New Day Club Tue Big Book	Clay
+12/30/08	Transfer Pizzeria Cafe	Wanderer's Group	Nick
+11/25/08	Marchese's Olive Pit	Tippacanoe	Troy M
+10/28/08	Pizza Shuttle	Alano Club 7pm Beginner's Meeting	Matt D
+09/30/08	Tazza Pizzeria	United We Stand	Fox
+08/26/08	Riverfront Pizzeria	Milwaukee Group	Jamie R
+07/29/08	Trysting Place Pub	Happy Hour Milwaukee Group	Jim B
+06/24/08	Classic Slice	Unity Lutheran Church	Nick
+05/27/08	Casa DiGiorgio	Franklin Group	Walt
+04/29/08	Leonardo's Pizza	Orientation at the New Day Club	Rich M
+03/25/08	Mama Mia's	Non-Smokers Tuesday Night	Todd U
+02/26/08	Pepino's	Tuesday Night Grapevine Group	Matt Z
+01/29/08	Ned's Pizza	Gratitude Group	Curtis D
+12/18/07	De Marinis Pizzeria	Terrific Tuesday Big Book	Troy M
+11/27/07	Joey Buona's	Alano Club	Joe R
+10/30/07	Albanese's Road House & Deli	WELL Group	Kevin D
+09/25/07	Saraphino's	New Berlin Big Book Group (new church)	Neil K
+08/28/07	Jimmy's Grotto	Alpha Group	Peter B
+07/31/07	Cranky Al's	12 & 12 Group	Rick S
+06/26/07	Pistol Pete's Brookfield	Tuesday Night Topic Group	Bill E
+05/29/07	Organ Piper's Pizza	New Berlin Big Book Group	Bill H
+04/24/07	Armeli's	ARO Tuesday Night AA	Brian M
+03/27/07	Mr. D's II	Faith Triumphs	Herb P
+02/27/07	Balistreri's Italian-American	United We Stand Group	Kurt B
+01/30/07	Albanese's	Milwaukee Group	Fox
+12/26/07	Michael's-restaurant-italian American	The Mayflower group	Randy H
+11/18/06	Mama Mia's	Friends of Bill W	John A
+10/31/06	Park Ave Pizza	WELL Group	Ian B
+09/26/06	Mia's	How it Works Group	Craig S
+08/29/06	Marcel's house	Group 14	Marcel T
+07/25/06	Ricardo's	Tuesday Night Candlelight Group	Chris A
+06/27/06	Barbiere's	Milwaukee Professionals in AA	Brian F
+05/30/06	Di Carlo's	What's Happening Group	Nick B
+04/25/06	Papa Luigi's	Wanderer's Group	Charles B
+03/28/06	Ferrante's	Non-Smokers Tuesday Night	Yoni M
+02/28/06	Filippos	Impaired Proffessionals	Christiano H
+01/31/06	Zafirios	Group 73 Retread	Stu B
+12/27/05	Oakland Trattoria	Shorewood Group	Rob D
+11/29/05	Lisa's	Alano 8pm	Jeff J
+10/25/05	Marty's	Recovery Group	Jim B
+09/27/05	Mrs Java's	Group 77	Rick S
+08/30/05	Palermos	Matt Z's House (Roundys was closed)	Matt Z
+07/26/05	Di Marinis	Tippicanoe	Bill E
+06/28/05	Mommas	Clockwise	Todd U
+05/31/05	Annes	Hales Corners	Troy M
+04/26/05	Marias	Three Legacies Group	Bill H

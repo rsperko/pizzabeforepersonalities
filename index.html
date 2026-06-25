@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pizza Before Personalities</title>
+  <meta name="description" content="Monthly pizza dinner before an AA meeting in the greater Milwaukee area.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="hero-inner">
+      <p class="kicker">Milwaukee area AA fellowship</p>
+      <h1>Pizza Before Personalities</h1>
+      <p class="tagline">On the last Wednesday of every month, a group of guys meets at a different pizza place, then visits a meeting.</p>
+      <a class="mail-link" href="mailto:pizzabeforepersonalities@gmail.com?subject=Please%20add%20me%20to%20list&amp;body=I%20heard%20about%20PBP%20from%20%3Cfill%20in%20the%20blank%3E">Join the mailing list</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="current" id="current" aria-live="polite">
+      <p class="loading">Loading this month's event...</p>
+    </section>
+
+    <section class="rules">
+      <div class="rules-intro">
+        <p>So you are not surprised, there are some basic rules:</p>
+        <ul>
+          <li>No special orders</li>
+          <li>20% tip</li>
+          <li>Evenly split the check and round up</li>
+        </ul>
+      </div>
+      <div class="acic-suggestions">
+        <p>If you are ACIC, there are other suggestions:</p>
+        <ul>
+          <li>No chain restaurants</li>
+          <li>Please confirm they have a seating area (this has been a problem more than once)</li>
+          <li>Soda by the pitcher if available</li>
+          <li>Order garlic bread (with cheese if available) when you arrive before everyone</li>
+        </ul>
+      </div>
+      <blockquote>
+        "Life will take on a new meaning. To watch people recover, to see them help others, to watch loneliness vanish, to see a fellowship grow up about you, to have a host of friends &mdash; this is an experience you must not miss&hellip; Frequent contact with newcomers and each other is the bright spot of our lives." <cite>- Alcoholics Anonymous, Pg. 89</cite>
+      </blockquote>
+      <p class="hope">Hope to see you at the next meeting.</p>
+    </section>
+
+    <section class="archive">
+      <div class="archive-head">
+        <h2>Archive</h2>
+        <input type="search" id="filter" placeholder="Search pizza, meeting, or host&hellip;" aria-label="Search the archive">
+      </div>
+      <div class="table-wrap">
+        <table id="archive-table">
+          <thead>
+            <tr>
+              <th scope="col">Date</th>
+              <th scope="col">Pizza</th>
+              <th scope="col">Meeting</th>
+              <th scope="col">ACIC</th>
+            </tr>
+          </thead>
+          <tbody id="archive-body"></tbody>
+        </table>
+      </div>
+      <p class="count" id="count"></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p id="footer-note"></p>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
