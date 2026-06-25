@@ -323,15 +323,57 @@ td:first-child {
 
 @media (max-width: 640px) {
   .site-header {
-    min-height: 520px;
+    min-height: 430px;
     align-items: end;
-    padding-bottom: 4.5rem;
+    padding: 1.25rem 1rem 3.25rem;
+    background-position: 62% center;
   }
 
-  main { margin-top: -2.75rem; }
+  .kicker {
+    margin-bottom: 0.6rem;
+    font-size: 0.68rem;
+    letter-spacing: 0.14em;
+  }
+
+  .site-header h1 {
+    max-width: 360px;
+    font-size: clamp(2.45rem, 15vw, 3.55rem);
+    line-height: 0.98;
+  }
+
+  .tagline {
+    max-width: 340px;
+    margin-top: 1rem;
+    font-size: 1rem;
+  }
+
+  .mail-link {
+    margin-top: 1.25rem;
+    padding: 0.72rem 0.95rem;
+    font-size: 0.95rem;
+  }
+
+  main {
+    margin-top: -2rem;
+    padding: 0 0.75rem 3rem;
+  }
+
+  .current,
+  .rules,
+  .table-wrap {
+    box-shadow: 0 12px 28px rgba(66, 32, 12, 0.12);
+  }
+
+  .current {
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
 
   .announcement {
     display: block;
+    margin-bottom: 1rem;
+    padding: 0.85rem 0.95rem;
+    font-size: 0.98rem;
   }
 
   .announcement-tag {
@@ -339,8 +381,134 @@ td:first-child {
     margin-bottom: 0.45rem;
   }
 
-  th,
+  .current .when {
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+  }
+
+  .current .when small,
+  .detail .label {
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+  }
+
+  .detail-grid {
+    gap: 0.75rem;
+  }
+
+  .detail {
+    min-height: auto;
+    padding: 0.9rem;
+  }
+
+  .detail .value {
+    font-size: 1.05rem;
+  }
+
+  .acic-line {
+    font-size: 0.95rem;
+  }
+
+  .rules {
+    gap: 1.1rem;
+    padding: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .rules p {
+    margin-bottom: 0.55rem;
+  }
+
+  .rules ul {
+    padding-left: 1.1rem;
+  }
+
+  .rules blockquote {
+    padding: 1rem;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+
+  .archive-head {
+    display: block;
+  }
+
+  .archive-head h2 {
+    margin-bottom: 0.65rem;
+    font-size: 1.9rem;
+  }
+
+  #filter {
+    width: 100%;
+    font-size: 1rem;
+  }
+
+  .table-wrap {
+    overflow: visible;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  table,
+  thead,
+  tbody,
+  tr,
   td {
-    padding: 0.65rem 0.7rem;
+    display: block;
+    width: 100%;
+  }
+
+  thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+  }
+
+  tr {
+    margin-bottom: 0.75rem;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: rgba(255, 253, 249, 0.94);
+    box-shadow: 0 10px 24px rgba(66, 32, 12, 0.1);
+    overflow: hidden;
+  }
+
+  tbody tr:nth-child(even),
+  tbody tr:hover {
+    background: rgba(255, 253, 249, 0.94);
+  }
+
+  td {
+    display: grid;
+    grid-template-columns: 5.5rem 1fr;
+    gap: 0.7rem;
+    padding: 0.65rem 0.85rem;
+    border-bottom: 1px solid var(--line);
+    font-size: 0.92rem;
+  }
+
+  td:last-child {
+    border-bottom: 0;
+  }
+
+  td::before {
+    color: var(--accent-dark);
+    font-size: 0.68rem;
+    font-weight: 850;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  td:nth-child(1)::before { content: "Date"; }
+  td:nth-child(2)::before { content: "Pizza"; }
+  td:nth-child(3)::before { content: "Meeting"; }
+  td:nth-child(4)::before { content: "ACIC"; }
+
+  .count {
+    margin-top: 0.25rem;
+    padding-left: 0.1rem;
   }
 }
