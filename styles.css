@@ -23,10 +23,10 @@ body {
 }
 
 .site-header {
-  min-height: 72vh;
+  min-height: 560px;
   display: flex;
   align-items: center;
-  padding: 2rem clamp(1rem, 4vw, 4rem);
+  padding: 2rem clamp(1.25rem, 5vw, 4.5rem);
   color: #fff;
   background:
     linear-gradient(90deg, rgba(25, 14, 8, 0.82), rgba(67, 34, 17, 0.52) 52%, rgba(25, 14, 8, 0.56)),
@@ -34,7 +34,7 @@ body {
 }
 
 .hero-inner {
-  width: min(920px, 100%);
+  width: min(760px, 100%);
 }
 
 .kicker {
@@ -47,11 +47,11 @@ body {
 }
 
 .site-header h1 {
-  max-width: 850px;
+  max-width: 760px;
   margin: 0;
-  font-size: clamp(3rem, 10vw, 7.6rem);
+  font-size: clamp(3rem, 7vw, 5.9rem);
   font-weight: 850;
-  line-height: 0.93;
+  line-height: 0.96;
 }
 
 .tagline {
@@ -75,8 +75,8 @@ body {
 }
 
 main {
-  max-width: 1120px;
-  margin: -4rem auto 0;
+  max-width: 920px;
+  margin: -3.1rem auto 0;
   padding: 0 clamp(1rem, 3vw, 2rem) 4rem;
 }
 
@@ -90,7 +90,7 @@ main {
 }
 
 .current {
-  padding: clamp(1.25rem, 3vw, 2rem);
+  padding: clamp(1.15rem, 2.4vw, 1.65rem);
   margin-bottom: 1.25rem;
 }
 
@@ -123,7 +123,7 @@ main {
 
 .current .when {
   margin: 0 0 1.25rem;
-  font-size: clamp(1.7rem, 4vw, 3rem);
+  font-size: clamp(1.55rem, 3.2vw, 2.35rem);
   font-weight: 850;
   line-height: 1.05;
 }
@@ -148,7 +148,7 @@ main {
 }
 
 .detail {
-  min-height: 150px;
+  min-height: 128px;
   padding: 1rem;
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -166,7 +166,7 @@ main {
 
 .detail .value {
   margin: 0;
-  font-size: clamp(1.15rem, 2vw, 1.45rem);
+  font-size: clamp(1.05rem, 1.7vw, 1.25rem);
   font-weight: 800;
 }
 
@@ -323,12 +323,21 @@ td:first-child {
 
 @media (max-width: 640px) {
   .site-header {
-    min-height: 64vh;
+    min-height: 520px;
     align-items: end;
-    padding-bottom: 5.5rem;
+    padding-bottom: 4.5rem;
   }
 
-  main { margin-top: -3.5rem; }
+  main { margin-top: -2.75rem; }
+
+  .announcement {
+    display: block;
+  }
+
+  .announcement-tag {
+    display: inline-block;
+    margin-bottom: 0.45rem;
+  }
 
   th,
   td {
